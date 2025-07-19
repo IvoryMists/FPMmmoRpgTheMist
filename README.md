@@ -1,2 +1,10 @@
-# FPMmmoRpgTheMist
-Online Action RPG PC (Windows, macOS), Mobile Companion App. Deep class &amp; skill system: 6 main classes, 4 subclasses
+- **Genre:** Online Action RPG inspired by
+- **Target Platforms:** PC (Windows, macOS), Mobile Companion App (iOS, Android)
+- **Core Pillars:**
+  - Deep class & skill system: 6 main classes, 4 subclasses each
+  - Custom weapon crafting: Silver weapon aesthetic
+  - Equipment-driven character stats
+  - Massive world bosses, dungeons/raids
+  - Single super-server per continent
+  - Robust social features: chat, friends, guilds
+  - Companion app chat integration
